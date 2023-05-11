@@ -1,1 +1,7 @@
 model.pth filter=lfs diff=lfs merge=lfs -text
+划分数据集.py filter=lfs diff=lfs merge=lfs -text
+知识图谱 filter=lfs diff=lfs merge=lfs -text
+Alexnet filter=lfs diff=lfs merge=lfs -text
+ORL filter=lfs diff=lfs merge=lfs -text
+README.MD filter=lfs diff=lfs merge=lfs -text
+knn人脸识别 filter=lfs diff=lfs merge=lfs -text
